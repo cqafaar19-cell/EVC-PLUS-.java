@@ -1,8 +1,13 @@
 # EVC-PLUS-.java
-import java.util.Scanner;
 
-// Class-ka barnaamijka - waa qalabka ku talagalan nidaamka EVC PLUS (simulation)
-public class EVC_PLUS {
+Abdiqafaar aweis ali
+C1240267
+
+
+    import java.util.Scanner;
+
+    // Class-ka barnaamijka - waa qalabka ku talagalan nidaamka EVC PLUS (simulation)
+    public class EVC_PLUS {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("Abdiqafaar Aweis Ali\nC1240267\n    Gali EVC codeka (*770#)");
